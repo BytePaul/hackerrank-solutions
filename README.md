@@ -1,50 +1,45 @@
-HackerRank Solutions 🧠
-Welcome to my collection of solutions to coding problems from HackerRank. This repository is organized by domain and topic for easy navigation and reference.
-📂 Sections Covered
-    • 🐧 Linux: Bash, Shell
-    • 💻 C++: Introduction, Strings, STL, Functions, Classes
-    • 🧱 Data Structures: Arrays, Linked Lists, Trees, Stacks, Queues, Hash Tables
-    • ⚙️ Algorithms: Warmup, Sorting, Searching, Recursion, Dynamic Programming, Greedy
-    • 🧩 3 Months Interview Preparation Kit: Weekly problems covering data structures and algorithms
-🗂️ Folder Structure
 
-hackerrank-solutions/
-├── Linux/
-│   ├── Bash/
-│   └── Shell/
-├── C++/
-│   ├── Introduction/
-│   ├── Strings/
-│   └── STL/
-├── DataStructures/
-│   ├── Arrays/
-│   ├── Trees/
-│   └── LinkedLists/
-├── Algorithms/
-│   ├── Warmup/
-│   ├── Sorting/
-│   └── DynamicProgramming/
-├── InterviewKit/
-│   ├── Week1/
-│   ├── Week2/
-│   └── ...
-└── README.md
+# HackerRank Solutions 🧠
 
-🎯 Goals
-    • Improve problem-solving and algorithmic thinking
-    • Track progress through different difficulty levels
-    • Prepare for technical interviews
-    • Build a clean and well-documented portfolio of solutions
-✍️ Code Format
+Welcome to my collection of solutions to coding problems from [HackerRank](https://www.hackerrank.com/).  
+This repository is organized by domain and topic for easy navigation and reference.
+
+---
+
+## 📂 Sections Covered
+
+- 🐧 **Linux**: Bash, Shell  
+- 💻 **C++**: Introduction, Strings, STL, Functions, Classes  
+- 🧱 **Data Structures**: Arrays, Linked Lists, Trees, Stacks, Queues, Hash Tables  
+- ⚙️ **Algorithms**: Warmup, Sorting, Searching, Recursion, Dynamic Programming, Greedy  
+- 🧩 **3 Months Interview Preparation Kit**: Weekly problems covering data structures and algorithms
+
+---
+
+## 🗂️ Folder Structure
+
+
+---
+
+## 🎯 Goals
+
+- Improve problem-solving and algorithmic thinking  
+- Track progress through different difficulty levels  
+- Prepare for technical interviews  
+- Build a clean and well-documented portfolio of solutions
+
+---
+
+## ✍️ Code Format
+
 Each solution file includes:
-    • Problem Name
-    • Problem Link
-    • Language Used
-    • Comments (where needed)
+
+- Problem Name  
+- Problem Link  
+- Language Used  
+- Comments (where needed)
+
+```cpp
 // Problem: Solve Me First
 // Link: https://www.hackerrank.com/challenges/solve-me-first
 // Language: C++
-📝 Disclaimer
-All problem descriptions and test cases belong to HackerRank. This repository only contains my personal solutions for learning and reference purposes.
-📫 Let's Connect
-Feel free to reach out or connect with me on LinkedIn: https://www.linkedin.com/in/paul-gaikwad/
