@@ -16,31 +16,6 @@ This repository is organized by domain and topic for easy navigation and referen
 
 ---
 
-## 🗂️ Folder Structure
-hackerrank-solutions/
-├── Linux/
-│ ├── Bash/
-│ └── Shell/
-├── C++/
-│ ├── Introduction/
-│ ├── Strings/
-│ └── STL/
-├── DataStructures/
-│ ├── Arrays/
-│ ├── Trees/
-│ └── LinkedLists/
-├── Algorithms/
-│ ├── Warmup/
-│ ├── Sorting/
-│ └── DynamicProgramming/
-├── InterviewKit/
-│ ├── Week1/
-│ ├── Week2/
-│ └── ...
-└── README.md
-
----
-
 ## 🎯 Goals
 
 - Improve problem-solving and algorithmic thinking  
