@@ -17,7 +17,27 @@ This repository is organized by domain and topic for easy navigation and referen
 ---
 
 ## 🗂️ Folder Structure
-
+hackerrank-solutions/
+├── Linux/
+│ ├── Bash/
+│ └── Shell/
+├── C++/
+│ ├── Introduction/
+│ ├── Strings/
+│ └── STL/
+├── DataStructures/
+│ ├── Arrays/
+│ ├── Trees/
+│ └── LinkedLists/
+├── Algorithms/
+│ ├── Warmup/
+│ ├── Sorting/
+│ └── DynamicProgramming/
+├── InterviewKit/
+│ ├── Week1/
+│ ├── Week2/
+│ └── ...
+└── README.md
 
 ---
 
@@ -43,3 +63,24 @@ Each solution file includes:
 // Problem: Solve Me First
 // Link: https://www.hackerrank.com/challenges/solve-me-first
 // Language: C++
+
+---
+
+📝 Disclaimer
+
+All problem descriptions and test cases belong to HackerRank.
+This repository only contains my personal solutions for learning and reference purposes.
+
+---
+
+📫 Let's Connect
+
+Feel free to reach out or connect with me on LinkedIn : https://www.linkedin.com/in/paul-gaikwad/
+
+
+---
+
+Once added to your repository and pushed, GitHub will render it cleanly with all formatting intact.
+
+Want a version of this with badges (e.g., language, last update, etc.) or a license section?
+
