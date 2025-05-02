@@ -71,16 +71,3 @@ Each solution file includes:
 All problem descriptions and test cases belong to HackerRank.
 This repository only contains my personal solutions for learning and reference purposes.
 
----
-
-📫 Let's Connect
-
-Feel free to reach out or connect with me on LinkedIn : https://www.linkedin.com/in/paul-gaikwad/
-
-
----
-
-Once added to your repository and pushed, GitHub will render it cleanly with all formatting intact.
-
-Want a version of this with badges (e.g., language, last update, etc.) or a license section?
-
