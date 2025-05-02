@@ -4,7 +4,6 @@
 Welcome to my collection of solutions to coding problems from [HackerRank](https://www.hackerrank.com/).  
 This repository is organized by domain and topic for easy navigation and reference.
 
----
 
 ## 📂 Sections Covered
 
@@ -14,7 +13,6 @@ This repository is organized by domain and topic for easy navigation and referen
 - ⚙️ **Algorithms**: Warmup, Sorting, Searching, Recursion, Dynamic Programming, Greedy  
 - 🧩 **3 Months Interview Preparation Kit**: Weekly problems covering data structures and algorithms
 
----
 
 ## 🎯 Goals
 
@@ -23,7 +21,6 @@ This repository is organized by domain and topic for easy navigation and referen
 - Prepare for technical interviews  
 - Build a clean and well-documented portfolio of solutions
 
----
 
 ## ✍️ Code Format
 
@@ -39,7 +36,6 @@ Each solution file includes:
 // Link: https://www.hackerrank.com/challenges/solve-me-first
 // Language: C++
 ```
----
 
 📝 Disclaimer
 
